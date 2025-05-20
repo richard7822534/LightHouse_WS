@@ -33,7 +33,8 @@ LightHouse
 原來密碼是這個呀！
 英文是大寫喔！
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P10.JPG" width="600" height=auto>
 
 [[返回->辦公室]]
 (replace: ?Sidebar)[]
@@ -44,7 +45,8 @@ LightHouse
 電梯那邊好像燈亮了~
 應該可以回家了~
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P04.JPG" width="600" height=auto>
 
 [[指紋打卡->還是非法指紋]]
 [[看看電梯->明亮的電梯]]
@@ -55,7 +57,8 @@ LightHouse
 差點忘了還沒打卡呢！
 先打卡再回家~
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P04.JPG" width="600" height=auto>
 
 [[指紋打卡->非法指紋]]
 [[密碼打卡->輸入密碼]]
@@ -68,7 +71,8 @@ LightHouse
 燈亮了!!
 終於可以回家了!!
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P11.JPG" width="600" height=auto>
 
 [[試試看往上->又想往上]]
 [[試試看往下->通關]]
@@ -80,7 +84,8 @@ LightHouse
 今天電梯怎麼看起來暗暗的？
 難道壞掉了？
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P02.JPG" width="600" height=auto>
 
 [[試試看往上->往上做什麼]]
 [[試試看往下->沒反應]]
@@ -93,19 +98,22 @@ LightHouse
 居然沒反應！？
 難道我不能回家了？
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P03.JPG" width="600" height=auto>
 
 [[返回->昏暗的電梯]]
 (replace: ?Sidebar)[]
 
 
 :: 燈塔計畫 {"position":"600,100","size":"100,100"}
+你好~
 這是一款線上密室逃脫遊戲
 請觀察場景中的線索
-並找到正確的逃離方法
+找到正確的逃離方法
 並一起在遊戲中學習"燈塔計畫"吧！
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P01.JPG" width="600" height=auto>
 
 [[開始遊戲->昏暗的電梯]]
 (replace: ?Sidebar)[]
@@ -116,7 +124,8 @@ LightHouse
 多欣賞一下殺時間吧...
 說不定還可以找到回家的路~
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P08.JPG" width="600" height=auto>
 
 [[返回->辦公室]]
 (replace: ?Sidebar)[]
@@ -124,6 +133,9 @@ LightHouse
 
 :: 輸入密碼 {"position":"275,400","size":"100,100"}
 輸入密碼 : (input: bind _pwd)
+
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P06.JPG" width="600" height=auto>
 
 (set: $pwd to "52WS")
 (link: "確認密碼")[\
@@ -147,7 +159,8 @@ LightHouse
 不能回家！
 看來只能繼續加班了QwQ
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P07.JPG" width="600" height=auto>
 
 [[看看白板->白板]]
 [[看看電腦->電腦]]
@@ -162,7 +175,8 @@ LightHouse
 也希望<a style="color : yellow;">燈塔工廠</a>給我們點亮了前途，
 歡迎再上網看看並多了解<a style="color : yellow;">燈塔工廠</a>！
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P12.JPG" width="600" height=auto>
 
 <a href="https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=7WuHl5q7F0aAK5TGLng3tfIW5xAEqJRKpT4WRPpX7jJUOEJQVUhSTDZXS1g3NFVWTkMxMzdHMVpVVS4u" target="_blank" style="color: orange";>點我填寫回饋問卷</a>
 
@@ -174,7 +188,8 @@ LightHouse
 我還是非法指紋！？
 不是說好打卡了嗎=口=|||
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P05.JPG" width="600" height=auto>
 
 [[返回->明亮的電梯]]
 (replace: ?Sidebar)[]
@@ -183,10 +198,14 @@ LightHouse
 :: 電腦 {"position":"675,500","size":"100,100"}
 想起來了！
 我把打卡的密碼藏在這裡了！
-但我記得我放答案的小抄呀...
+
+但首先要先答對題目...
+我記得我有放答案的小抄呀...
 在哪裡呢...
 
 
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P09.JPG" width="600" height=auto>
 
 輸入答案(選項是大寫唷!) : (input: bind _ans)
 
@@ -213,7 +232,19 @@ LightHouse
 我是非法指紋！？
 難道我被開除了=口=|||
 
-
+<img
+src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P05.JPG" width="600" height=auto>
 
 [[返回->打卡鐘]]
 (replace: ?Sidebar)[]
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+  background-color: white;
+  color: black;
+}
+
+tw-link {
+  color: #0066cc; /* 連結顏色可自訂，這裡是藍色 */
+}
