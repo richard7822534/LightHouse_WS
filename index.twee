@@ -106,11 +106,26 @@ src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P
 
 
 :: 燈塔計畫 {"position":"600,100","size":"100,100"}
-你好~
-這是一款線上密室逃脫遊戲
-請觀察場景中的線索
-找到正確的逃離方法
-並一起在遊戲中學習"燈塔計畫"吧！
+您好！
+這是一款用網頁形式進行的''密室逃脫小遊戲''
+不需要安裝程式，只要點選選項、觀察圖片和文字
+就能一步步找到線索、解開謎題！
+
+### ✔️ 怎麼玩？
+每一頁會出現一些小謎題或線索或劇情。
+您只要閱讀內容，然後點選正確的答案或輸入正確的內容。
+答對就會往下一關前進。
+答錯的話，也可以再嘗試，完全不會扣分，慢慢來沒關係！
+全程只用滑鼠或手指點選，也不會限時。
+
+### 🎯 小提醒
+仔細觀察圖片和文字。
+如果不確定，可以先跳過再回來想。
+不用緊張，只是輕鬆玩、動動腦！
+
+### 👉 準備好了嗎？
+一起來挑戰看看！
+並在遊戲中學習<a style="color : #1A1A80;">''燈塔工廠''</a>吧！
 
 <img
 src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P01.JPG" width="600" height=auto>
@@ -172,8 +187,8 @@ src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P
 :: 通關 {"position":"525,775","size":"100,100"}
 恭喜你重啟了電梯的燈塔！
 讓他照亮回家的路~
-也希望<a style="color : yellow;">燈塔工廠</a>給我們點亮了前途，
-歡迎再上網看看並多了解<a style="color : yellow;">燈塔工廠</a>！
+也希望<a style="color : #1A1A80;">''燈塔工廠''</a>給我們點亮了前途，
+歡迎再上網看看並多了解<a style="color : #1A1A80;">''燈塔工廠''</a>！
 
 <img
 src="https://raw.githubusercontent.com/richard7822534/LightHouse_WS/main/image/P12.JPG" width="600" height=auto>
